@@ -261,9 +261,9 @@
             // Igual
             // 
             this.Igual.Font = new System.Drawing.Font("Consolas", 10F);
-            this.Igual.Location = new System.Drawing.Point(357, 417);
+            this.Igual.Location = new System.Drawing.Point(339, 417);
             this.Igual.Name = "Igual";
-            this.Igual.Size = new System.Drawing.Size(70, 65);
+            this.Igual.Size = new System.Drawing.Size(88, 65);
             this.Igual.TabIndex = 19;
             this.Igual.Text = "=";
             this.Igual.UseVisualStyleBackColor = true;
